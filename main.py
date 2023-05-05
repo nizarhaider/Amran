@@ -8,8 +8,8 @@ import time
 url = "https://www.choiceadvantage.com/choicehotels/sign_in.jsp"
 
 # Replace with your login credentials
-username = "azubai.ky322"
-password = "iPhone8s"
+username = ""
+password = ""
 
 # Load Excel file
 workbook = load_workbook(filename="sheet.xlsx")
